@@ -1,2 +1,2 @@
-- [首页](/)
-- [python-learning 首页](md/python-learning/)
+- [:octocat: 首页](/README.md)
+- [python 首页](md/python/tutorial.md)

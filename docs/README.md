@@ -1,11 +1,7 @@
 # jaweee 的博客
 
-hello，docsify
-
-hello, tech
-
-hello, everyday
-
-hello，my world
-
-hello, my heart
+- [:octocat: 首页](/)
+  - [:memo: python](md/python/)
+    - [python 入门](md/python/tutorial.md)
+  - [:camera: pytorch](md/pytorch/)
+  - [:computer: algorithm](md/algorithm/)
