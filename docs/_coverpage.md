@@ -9,4 +9,4 @@
 - 希望勇敢 :ghost:
 
 [GitHub](https://github.com/jaweee/jaweee.github.io)
-[开始阅读](/README.md)
+[开始阅读](README.md)
