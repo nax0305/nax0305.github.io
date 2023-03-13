@@ -1,3 +1,4 @@
 - [:octocat: 首页](/)
-  - [:memo: python-learning](md/python-learning/)
-  - [:memo: pytorch](md/pytorch/)
+  - [:memo: python](md/python/)
+  - [:camera: pytorch](md/pytorch/)
+  - [:computer: algorithm](md/algorithm/)
