@@ -1,2 +1,4 @@
 - [:octocat: 首页](/README.md)
-  - [:computer: 算法题](/docs/md/algorithm/)
+  - [:computer: 链表](md/algorithm/linkedlist/README.md)
+    - [反转链表](md/algorithm/linkedlist/reverse-list.md)
+    - [合并链表](md/algorithm/linkedlist/merge-list.md)

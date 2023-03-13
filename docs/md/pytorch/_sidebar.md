@@ -1,2 +1,3 @@
 - [首页](/)
-- [pytorch 首页](md/pytorch/)
+- [pytorch 首页](md/pytorch/README.md)
+- [pytorch 入门](md/pytorch/toturials.md)
