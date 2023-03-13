@@ -1,3 +1,3 @@
 - [:octocat: 首页](/README.md)
-- [python 首页](md/python/README.md)
-- [python 入门](md/python/tutorial.md)
+  - [python 首页](md/python/README.md)
+  - [python 入门](md/python/tutorial.md)
