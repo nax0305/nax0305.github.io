@@ -1,3 +1,3 @@
-- [首页](/)
-- [python-learning](/python-learning/)
-- [pytorch](/pytorch/)
+- [:octocat: 首页](/)
+  - [:memo: python-learning](md/python-learning/)
+  - [:memo: pytorch](md/pytorch/)
