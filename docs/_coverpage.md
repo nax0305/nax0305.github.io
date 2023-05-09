@@ -2,7 +2,7 @@
 
 # jaweee 的博客 <small>jaweee.github.io</small>
 
-> 一个纠结又没意思的树洞
+> 一个平平无奇的博客
 
 - 分享技术 :computer:
 - 热爱生活 :sunflower:
