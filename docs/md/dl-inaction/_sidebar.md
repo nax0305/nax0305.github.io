@@ -1,3 +1,3 @@
 - [:octocat: 首页](/README.md)
-  - [动手深度学习实践 首页](md/python/README.md)
-  - [动手深度学习实践 基础知识](md/python/preliminary.md)
+  - [动手深度学习实践 首页](md/dl-inaction/README.md)
+  - [动手深度学习实践 基础知识](md/dl-inaction/preliminary.md)
