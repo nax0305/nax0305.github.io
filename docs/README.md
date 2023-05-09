@@ -5,5 +5,4 @@
     - [python 入门](md/python/tutorial.md)
   - [:camera: pytorch](md/pytorch/)
   - [:computer: algorithm](md/algorithm/)
-  - [:sunflower: java](md/java/)
-    - [java 基础](md/java/basic/)
+  - [:sunflower: dl-inaction](md/dl-inaction/)
