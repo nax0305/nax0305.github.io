@@ -1,3 +1,3 @@
-# 这是学习 python 的目录
+# python 首页
 
-## nihao
+:computer: 第 I 部分 数据结构

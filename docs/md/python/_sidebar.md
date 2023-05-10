@@ -1,3 +1,5 @@
 - [:octocat: 首页](/README.md)
   - [python 首页](md/python/README.md)
-  - [python 入门](md/python/tutorial.md)
+  - [:computer: 第 I 部分 数据结构](md/python/array.md)
+    - [:cd: 数组](md/python/array.md)
+    - [:cd: 字典](md/python/dictionary.md)
