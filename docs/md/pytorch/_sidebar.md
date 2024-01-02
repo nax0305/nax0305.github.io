@@ -1,4 +1,0 @@
-- [:octocat: 首页](/README.md)
-- [pytorch 笔记目录](md/pytorch/README.md)
-- [pytorch 基础入门](md/pytorch/fundamentals.md)
-- [pytorch 深度学习工作流程基础](md/pytorch/workingflow-fundamentals.md)

@@ -1,3 +1,0 @@
-- [:octocat: 首页](/README.md)
-  - [:cat: 第六章 与学习相关的技巧](md/dl-runoob/chapter6.md)
-  - [:cat: 第七章 ](md/dl-runoob/chapter7.md)
