@@ -1,3 +1,3 @@
 # python 首页
 
-:computer: 第 I 部分 数据结构
+关于python相关的基础知识，python的基础语法、流畅的python、数据分析、python做的小项目
