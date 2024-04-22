@@ -1,5 +1,3 @@
 - [:octocat: 首页](/)
   - [:memo: python](md/python/)
-  - [:computer: algorithm](md/algorithm/)
-  - [:smiley: csbasi](md/csbasi/)
-  - [:book: reading](md/reading/)
+  - [:smiley: csbasi](md/csbasic/)
