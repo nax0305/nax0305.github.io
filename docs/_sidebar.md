@@ -1,3 +1,3 @@
 - [:octocat: 首页](/)
-  - [:memo: python](md/python/)
+  - [:memo: genai](md/genai/)
   - [:smiley: csbasi](md/csbasic/)

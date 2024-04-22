@@ -1,7 +1,0 @@
-- [:octocat: 首页](/README.md)
-  - [:book: fluent python](md/python/fluentpy/README.md)
-    - [:palm_tree: 第 I 部分 数据结构](md/python/fluentpy/part_I/README.md)
-      - [1. 序列](md/python/fluentpy/part_I/list.md)
-      - [2. 字典](md/python/fluentpy/part_I/dict.md)
-      - [3. 文本](md/python/fluentpy/part_I/text.md)
-    -[:dolls: 第 II 部分 把函数视作对象](md/python/fluentpy/part_II/README.md)

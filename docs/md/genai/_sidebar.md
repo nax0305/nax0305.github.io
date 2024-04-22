@@ -1,0 +1,3 @@
+- [:octocat: 首页](/README.md)
+  - [:smiley: genai](md/genai/README.md)
+  - [:computer: whatisgenai](md/genai/lec/whatisgenai.md)
