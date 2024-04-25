@@ -1,3 +1,3 @@
 - [:octocat: 首页](/)
   - [:memo: genai](md/genai/)
-  - [:smiley: csbasi](md/csbasic/)
+  - [:computer: csbasi](md/csbasic/)

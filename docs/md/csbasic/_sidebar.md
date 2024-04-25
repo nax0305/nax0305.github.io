@@ -1,5 +1,7 @@
 - [:octocat: 首页](/README.md)
-  - [:smiley: cs-basis](md/csbasi/README.md)
-    - [:green_book: csapp](md/csbasi/csapp/README.md)
-        - [ch01 cs概览](md/csbasi/csapp/ch01.md)
-        - [ch02 数的表示](md/csbasi/csapp/ch02.md)
+  - [:golf: cs-basis](md/csbasic/README.md)
+    - [:ledger: csapp](md/csbasic/csapp/README.md)
+      - 
+    - [:clipboard: cs61a](md/csbasic/cs61a/README.md)
+      - [function_abstract](md/csbasic/cs61a/function_abstract/README.md)
+      - [data_abstract](md/csbasic/cs61a/data_abstract/README.md)
